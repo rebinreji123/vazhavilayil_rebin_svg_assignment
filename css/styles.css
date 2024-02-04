@@ -1,0 +1,12 @@
+.hidden {
+    display: none;
+  }
+  body{
+    font-family: 'Geologica', sans-serif;
+    background-color: rgba(197, 180, 158, 0.46);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+  }
